@@ -2,6 +2,7 @@
 
 # Engineering Core
 ## Tech 246
+new name ATHENA
 
 The following 3 lessons should be done in the first weeks of the course, ideally just before starting the C# Core weeks.
 Adding new random lines.
@@ -14,7 +15,8 @@ ellen woz 'ere
 
 [Git/GitHub](./Git_Intro.md)
 
-The advanced Git/GitHub lesson below should be done just before they do their first group exercise or mini-project
+The advanced Git/GitHub lesson below should be done just before they do their first group exercise or mini-project.
+new line added by Ramya, trying for second time
 
 [Collaborative development using Git/GitHub](./Git_Collaborative.md)
 
