@@ -3,6 +3,7 @@
 # Engineering Core
 
 The following 3 lessons should be done in the first weeks of the course, ideally just before starting the C# Core weeks.
+Adding new random lines.
 
 [Markdown](./Markdown.md)  
 
