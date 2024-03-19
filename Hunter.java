@@ -7,7 +7,7 @@ public class Hunter extends Person implements IShootable {
         this.shootable = shootable;
     }
     public String shoot() {
-        return getFullName() + " is " + shootable.shoot();
+        return getFullName() + " is " + shootable.shoot() + "!!!";
     }
 
     public void setWeapon(IShootable shootable) {
@@ -18,4 +18,6 @@ public class Hunter extends Person implements IShootable {
     public String toString() {
         return super.toString() + " is a Hunter which has a " + shootable;
     }
+
+    // NEW COMMENT
 }
