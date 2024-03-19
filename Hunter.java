@@ -1,6 +1,7 @@
 package com.spartaglobal.clf;
 
 public class Hunter extends Person implements IShootable {
+// I have made some changes
     private IShootable shootable;
     public Hunter(String fName, String lName, int age, IShootable shootable, String haircolour) {
         super(fName, lName, age);
@@ -20,5 +21,16 @@ public class Hunter extends Person implements IShootable {
         return super.toString() + " is a Hunter with a " + shootable;
     }
 
-    // NEW COMMENT
+
+    public String message(){
+        return "great";
+    }
+
 }
+
+// super awesome code, love Ellen
+
+
+    // NEW COMMENT
+
+
