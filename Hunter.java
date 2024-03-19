@@ -11,7 +11,7 @@ public class Hunter extends Person implements IShootable {
     }
 
     public void setWeapon(IShootable shootable) {
-        this.shootable = shootable;
+        this.shootable = shootable;;;;
     }
 
     @Override
