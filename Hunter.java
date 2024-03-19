@@ -1,13 +1,15 @@
 package com.spartaglobal.clf;
 
 public class Hunter extends Person implements IShootable {
-// I have made some changes 
+// I have made some changes
     private IShootable shootable;
-    public Hunter(String fName, String lName, int age, IShootable shootable) {
+    public Hunter(String fName, String lName, int age, IShootable shootable, String haircolour) {
         super(fName, lName, age);
+        this.shootable = shootable;
+        this.haircolour = haircolour;
     }
     public String shoot() {
-        return getFullName() + " is " + shootable.shoot();
+        return getFullName() + " is " + shootable.shoot() + "!!!";
     }
 
     public void setWeapon(IShootable shootable) {
@@ -18,8 +20,16 @@ public class Hunter extends Person implements IShootable {
     public String toString() {
         return super.toString() + " is a Hunter with a " + shootable;
     }
-
 }
 
 // super awesome code, love Ellen
+// JUST WANTED TO ADD MORE RANDOM TEXT 
+
+
+
+    public String message(){
+        return "great";
+    }
+
+}
 
