@@ -2,7 +2,10 @@
 
 # Engineering Core
 
+
 The following 3 lessons should be done in the first weeks of the course, ideally just before starting the C# Core weeks.
+Adding new random lines.
+
 
 [Markdown](./Markdown.md)  
 
@@ -16,3 +19,7 @@ The advanced Git/GitHub lesson below should be done just before they do their fi
 Creating branches and conflict errors 
 
 [Continuous Integration with GitHub Actions](./CI_GitHub_Actions/)
+
+
+This is my edit
+
