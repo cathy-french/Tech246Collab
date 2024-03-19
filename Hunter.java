@@ -1,13 +1,13 @@
 package com.spartaglobal.clf;
 
 public class Hunter extends Person implements IShootable {
-// I have made some changes 
     private IShootable shootable;
     public Hunter(String fName, String lName, int age, IShootable shootable) {
         super(fName, lName, age);
+        this.shootable = shootable;
     }
     public String shoot() {
-        return getFullName() + " is " + shootable.shoot();
+        return getFullName() + " is " + shootable.shoot() + "!!!";
     }
 
     public void setWeapon(IShootable shootable) {
@@ -19,7 +19,5 @@ public class Hunter extends Person implements IShootable {
         return super.toString() + " is a Hunter with a " + shootable;
     }
 
+    // NEW COMMENT
 }
-
-// super awesome code, love Ellen
-
