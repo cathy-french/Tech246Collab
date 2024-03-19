@@ -20,6 +20,11 @@ public class Hunter extends Person implements IShootable {
     public String toString() {
         return super.toString() + " is a Hunter with a " + shootable;
     }
+}
+
+// super awesome code, love Ellen
+// JUST WANTED TO ADD MORE RANDOM TEXT 
+
 
 
     public String message(){
@@ -27,10 +32,4 @@ public class Hunter extends Person implements IShootable {
     }
 
 }
-
-// super awesome code, love Ellen
-
-
-    // NEW COMMENT
-
 
