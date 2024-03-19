@@ -16,6 +16,6 @@ public class Hunter extends Person implements IShootable {
 
     @Override
     public String toString() {
-        return super.toString() + " is a Hunter with a " + shootable;
+        return super.toString() + " is a Hunter which has a " + shootable;
     }
 }
