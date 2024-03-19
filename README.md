@@ -1,7 +1,7 @@
 # <img src="https://boolerang.co.uk/wp-content/uploads/job-manager-uploads/company_logo/2018/04/SG-Logo-Black.png" alt="Sparta Logo" width="200"/>
 
 # Engineering Core
-
+## Tech 246
 
 The following 3 lessons should be done in the first weeks of the course, ideally just before starting the C# Core weeks.
 Adding new random lines.
