@@ -22,4 +22,4 @@ Creating branches and conflict errors
 
 
 This is my edit
-![Kitten](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Juvenile_Ragdoll.jpg/1200px-Juvenile_Ragdoll.jpg)
+![Kitten](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Juvenile_Ragdoll.jpg/1200px-Juvenile_Ragdoll.jpg =600x300)
