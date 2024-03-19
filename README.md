@@ -13,5 +13,6 @@ The following 3 lessons should be done in the first weeks of the course, ideally
 The advanced Git/GitHub lesson below should be done just before they do their first group exercise or mini-project
 
 [Collaborative development using Git/GitHub](./Git_Collaborative.md)
+Creating branches and conflict errors 
 
 [Continuous Integration with GitHub Actions](./CI_GitHub_Actions/)
