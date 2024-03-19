@@ -11,7 +11,7 @@ The following 3 lessons should be done in the first weeks of the course, ideally
 [Git/GitHub](./Git_Intro.md)
 
 The advanced Git/GitHub lesson below should be done just before they do their first group exercise or mini-project.
-new line added by Ramya
+new line added by Ramya, trying for second time
 
 [Collaborative development using Git/GitHub](./Git_Collaborative.md)
 
